@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://apps.apple.com/ca/app/store-checker-for-valorant/id1637273546" target="_blank">App Store</a>
+  <a href="https://apps.apple.com/ca/app/store-checker-for-valorant/id1637273546">App Store</a>
   •
   <a href="https://github.com/SoloUnity/valorant-store-checker-iOS#-faq">FAQ</a>
   •
